@@ -1,3 +1,13 @@
 # E-Commerce
-This Is Project Developed For Users Who Wants Shop Online .
-Technologies Used To Build this Projects Are HTML 5, CSS, Bootstrap 4, PHP . 
+E commerce Website for both Admin and Regular users 
+ (e.g. Amazon, Flipkart)
+
+
+### Technologies ###
+* HTML5 
+* CSS 
+* Bootstrap4
+* PHP
+* MySql
+* PhpMyAdmin
+* XAMPP
